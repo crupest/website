@@ -1,6 +1,6 @@
 using System;
 
-namespace Whpuaa
+namespace WhpuAA
 {
     public class WeatherForecast
     {
